@@ -1,7 +1,7 @@
-Hi there 
 
  🛠️ My Tools
-Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel
-Python: NumPy, Pandas
-Visualization: Tableau
-Project Management: Asana, Trello
+ 
+- Databases: SQL (PostgreSQL, MySQL, SQL Server), Excel <br>
+- Python: NumPy, Pandas
+- Visualization: Tableau <br>
+- Project Management: Asana, Trello
