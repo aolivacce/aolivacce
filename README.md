@@ -1,6 +1,5 @@
 
-🙋🏾‍♀️ 
-Hi There!
+# 🙋🏾‍♀️ Hi There!
 I'm Anntia, a self-taught data analyst. With a background in Sales Operations, I transitioned to data in 2020 and have been teaching myself SQL, R, Python, and Tableau ever since. Feel free to browse my [profolio]()!
 
 💡 My Skills
