@@ -14,3 +14,6 @@ I'm Anntia, a self-taught data analyst. With a background in Sales Operations, I
 - Python, R
 - Visualization: Tableau <br>
 - Project Management: Asana, Trello
+
+📚 Currently Learning 
+- A/B Testing with Pyhthon & R
